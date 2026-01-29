@@ -62,10 +62,11 @@ in regulated financial systems
 
 ## Author
 **Fateenah Farid**  
-Bachelor of Science in Applied Data Sciences
-College of Information, Science, and Technology
-The Pennsylvania State University
+Bachelor of Science in Applied Data Sciences  
+College of Information Sciences and Technology  
+The Pennsylvania State University  
 Class of 2026
+
 
 ---
 
