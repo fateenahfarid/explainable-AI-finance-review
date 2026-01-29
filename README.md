@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains the **final scoping review paper** titled  
-**“Explainable Artificial Intelligence in Financial Decision-Making”**.
+**“Explainable Artificial Intelligence in Financial Decision-Making.”**
 
 The review examines how Explainable AI (XAI) techniques are applied in
 high-stakes financial decision-making, with a primary focus on **loan approval
